@@ -6,8 +6,8 @@ Economics of Strategy and Entrepreneurship
 
 ## Overview
 
-I taught the course twice at the Harvard Economics Department 
-as part of the required curriculum undergraduate economics concentrators. 
+I taught the seminar course twice at the Harvard Economics Department, 
+as part of the required curriculum for undergraduate economics concentrators. 
 
 - Spring 2025, course rating 4.86/5 (vs. department mean 4.09/5) 
 - Fall 2024, course rating 5/5 (vs. department mean 4.01/5)
