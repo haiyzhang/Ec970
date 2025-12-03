@@ -23,7 +23,12 @@ Spring 2025 -
 Fall 2024 - 
 <img width="851" height="350" alt="image" src="https://github.com/user-attachments/assets/0be03bcd-3c47-447f-968f-36743444fb83" />
 
-**Haiyang Zhang**  
-Doctoral Candidate in Strategy, Harvard Business School  
-📧 hzhang@hbs.edu  
-GitHub: [@haiyzhang](https://github.com/haiyzhang)
+
+---
+
+## Inspiration
+
+I am fortunate to have had many good teachers in my academic training. 
+As I develop my own pedagogical style, a few things I often think about:
+
+Apollonian and Dionysian [styles of teaching](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2325-8012.2001.tb00418.x)
