@@ -20,6 +20,7 @@ as part of the required curriculum for undergraduate economics concentrators.
 Spring 2025 - 
 <img width="848" height="289" alt="image" src="https://github.com/user-attachments/assets/47f553e4-a37b-467b-a6dc-c228681ae266" />
 
+
 Fall 2024 - 
 <img width="851" height="350" alt="image" src="https://github.com/user-attachments/assets/0be03bcd-3c47-447f-968f-36743444fb83" />
 
